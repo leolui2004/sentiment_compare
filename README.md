@@ -154,6 +154,7 @@ This is the result after running the test, but it is difficult to see the result
 
 ### Part 1 Result (Word)
 ![image](https://github.com/leolui2004/sentiment_compare/blob/main/pic/yoasobi_11.png)
+
 The result is surprising, with Transformers using those 2 pretrained models failed on some word analysis. Words like「痛み」(pain) which should be a negative word, 「大人」(adult), 「日本」(japan) which should be an neutral word, but it failed to score it appropriately.
 
 While the GCP NLP API is also not that perfect (e.g. +0.4 for「崩れる」(collapse)), on average it did provide a good result on Part 1.
