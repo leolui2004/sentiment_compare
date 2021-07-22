@@ -149,6 +149,7 @@ lyrics_long = ['どこか虚しいような そんな気持ち つまらない�
 
 ### Result image for the test
 ![image](https://github.com/leolui2004/sentiment_compare/blob/main/pic/yoasobi_1.png)
+
 This is the result after running the test, but it is difficult to see the result so I will put the result in a table and add some visulization
 
 ### Part 1 Result (Word)
